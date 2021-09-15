@@ -42,6 +42,7 @@ function Header() {
             <div className="header_option">
                 <span className="header_optionlineone">Your</span>
                 <span className="header_optionlinetwo">Prime</span>
+                <span className="header_optionlinetwo">Prime</span>
             </div>
             <Link to="/checkout">
             <div className="header_optionbasket">

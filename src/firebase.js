@@ -9,7 +9,7 @@ const firebaseConfig = {
     messagingSenderId: "1029050186830",
     appId: "1:1029050186830:web:936d61b8f7ba314f1f171f"
   };
-
+ 
 // const firebaseConfig = {
 //   apiKey: "AIzaSyCgDGiJHOmuDc3QRfElHtYaRZB4N08MbhY",
 //   authDomain: "challenge-d386a.firebaseapp.com",
